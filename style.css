@@ -1,0 +1,353 @@
+.desktop {
+  background-color: #dedede;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #dedede;
+  overflow: hidden;
+  width: 1440px;
+  height: 1822px;
+  position: relative;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 781px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/rectangle-1.png);
+  background-size: 100% 100%;
+}
+
+.desktop .aw-man-hell-nah {
+  position: absolute;
+  width: 550px;
+  top: 188px;
+  left: 160px;
+  font-family: "Saira Condensed-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 130px;
+  letter-spacing: 0;
+  line-height: 117px;
+}
+
+.desktop .text-wrapper {
+  color: #000000;
+}
+
+.desktop .span {
+  color: #a40000;
+}
+
+.desktop .navbar {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 25px;
+  position: absolute;
+  top: 36px;
+  left: 578px;
+}
+
+.desktop .home {
+  width: 80px;
+  position: relative;
+  height: 37px;
+  margin-top: -1px;
+  font-family: "Saira Condensed-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  white-space: nowrap;
+}
+
+.desktop .pricing {
+  width: 104px;
+  position: relative;
+  height: 37px;
+  margin-top: -1px;
+  font-family: "Saira Condensed-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  white-space: nowrap;
+}
+
+.desktop .location {
+  width: 127px;
+  position: relative;
+  height: 37px;
+  margin-top: -1px;
+  font-family: "Saira Condensed-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  white-space: nowrap;
+}
+
+.desktop .contact {
+  position: relative;
+  width: 113px;
+  height: 37px;
+  margin-top: -1px;
+  font-family: "Saira Condensed-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  white-space: nowrap;
+}
+
+.desktop .fuck-it-dawg {
+  position: absolute;
+  top: 37px;
+  left: 255px;
+  font-family: "Smooch Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  white-space: nowrap;
+}
+
+.desktop .frame {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 14px 34px;
+  position: absolute;
+  top: 24px;
+  left: 1109px;
+  background-color: #a40000;
+}
+
+.desktop .div-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.desktop .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Saira Condensed-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  white-space: nowrap;
+}
+
+.desktop .zillion-xpressions {
+  position: absolute;
+  width: 88px;
+  height: 100px;
+  top: 4px;
+  left: 167px;
+  object-fit: cover;
+}
+
+.desktop .frame-2 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 62px;
+  padding: 9px 105px;
+  position: absolute;
+  top: 597px;
+  left: 419px;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 44px #ff999954;
+}
+
+.desktop .frame-3 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.desktop .element-the-gesture {
+  position: relative;
+  width: 79px;
+  height: 80px;
+  object-fit: cover;
+}
+
+.desktop .fuck-you {
+  position: relative;
+  width: fit-content;
+  font-family: "Saira Condensed-Bold", Helvetica;
+  font-weight: 700;
+  color: #e20000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  white-space: nowrap;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 603px;
+  top: 1471px;
+  left: 0;
+  background-color: var(--black);
+}
+
+.desktop .pngegg {
+  position: absolute;
+  width: 323px;
+  height: 104px;
+  top: 247px;
+  left: 160px;
+  object-fit: cover;
+}
+
+.desktop .cum-and-join-us-in {
+  position: absolute;
+  top: 31px;
+  left: 160px;
+  font-family: "Saira Condensed-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: 57.6px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-3 {
+  color: #ffffff;
+}
+
+.desktop .text-wrapper-4 {
+  color: #f10000;
+}
+
+.desktop .frame-4 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 31px;
+  position: absolute;
+  top: 299px;
+  left: 1041px;
+}
+
+.desktop .text-wrapper-5 {
+  position: relative;
+  width: 46px;
+  height: 20px;
+  margin-top: -1px;
+  font-family: "Saira Condensed-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  white-space: nowrap;
+}
+
+.desktop .terms-of-service {
+  position: relative;
+  width: 162px;
+  height: 20px;
+  margin-top: -1px;
+  font-family: "Saira Condensed-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  white-space: nowrap;
+}
+
+.desktop .rectangle {
+  position: absolute;
+  width: 550px;
+  height: 418px;
+  top: 866px;
+  left: 160px;
+}
+
+.desktop .overlap-2 {
+  position: absolute;
+  width: 536px;
+  height: 396px;
+  top: 876px;
+  left: 744px;
+}
+
+.desktop .overlap-group-2 {
+  position: absolute;
+  width: 536px;
+  height: 396px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .aw-come-on-man-hell {
+  position: absolute;
+  width: 475px;
+  top: 0;
+  left: 16px;
+  font-family: "Saira Condensed-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+}
+
+.desktop .frame-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px 34px;
+  position: absolute;
+  top: 344px;
+  left: 0;
+  background-color: #a40000;
+}
+
+.desktop .lorem-ipsum-dolor {
+  position: absolute;
+  width: 520px;
+  top: 109px;
+  left: 16px;
+  font-family: "Saira Condensed-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+}
+
+.desktop .rectangle-2 {
+  position: absolute;
+  width: 9px;
+  height: 304px;
+  top: 1px;
+  left: 0;
+  background-color: #bd1717;
+}
